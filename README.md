@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">Helping designers and PMs make their dreams come true.</h3>
 
-- 🔭 I’m currently working on [Gaivota](https://www.gaivota.ai/)
+- 🔭 I’m currently working on [Seedz](https://www.seedz.ag/)
 
 - 🌱 I’m currently learning **Sveltie, rollup**
 
